@@ -1,0 +1,69 @@
+- id: hoi4abot
+  title: "HOI4ABOT: Human-Object Interaction Anticipation for Assistive roBOTs"
+  venue: CoRL 2023
+  description: "Detect and anticipate human-object interactions for intention reading, which facilitate robots to assist humans."
+  project_page: "https://evm7.github.io/HOI4ABOT_page/"
+  image: hoi4abot.png
+  authors:
+    - esteve
+    - danielsli
+    - dongheuilee
+
+- id: hoigaze
+  title: "Human–object interaction prediction in videos through gaze following"
+  venue: CVIU, 2023
+  description: "Leveraging gaze provides essential cues for predicting the human intention, which helps to anticipate the human-object interactions."
+  project_page: "https://evm7.github.io/HOIGaze-page/"
+  github: nizhf/hoi-prediction-gaze-transformer
+  arxiv: 2306.03597
+  image: hoigaze.png
+  authors:
+    - zhifanni
+    - esteve
+    - hyeminahn
+    - dongheuilee
+  awards:
+    - "Journal Paper"
+    
+- id: diffusionmotion
+  title: "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?"
+  venue: ICRA, 2023
+  description: "Diffusion models offer the right balance between likelihood and diversity when synthesizing human motions from past observations."
+  project_page: "https://sites.google.com/view/diffusion-motion-prediction"
+  github: cotton-ahn/diffusion-motion-prediction
+  arxiv: 2302.14503
+  image: diffmodel.png
+  authors:
+    - hyeminahn
+    - esteve
+    - dongheuilee
+
+- id: intentioncvae
+  title: "Intention-Conditioned Long-Term Human Egocentric Action Forecasting"
+  venue: WACV, 2023
+  description: "Understanding the human intention is key for a better prediction of what a human will do in the long-term."
+  project_page: "https://evm7.github.io/icvae-page/"
+  github: Evm7/ego4dlta-icvae
+  arxiv: 2207.12080
+  image: intentioncvae.png
+  authors:
+    - esteve
+    - hyeminahn
+    - dongheuilee
+  awards:
+    - "Winner of Ego4D LTA Challenge in CVPR2022 and ECCV2022"
+
+- id: twochtr
+  title: "Robust Human Motion Forecasting using Transformer-based Model"
+  venue: IROS, 2022
+  description: "Decoupling space and time in human motion forecasting allows for more robust and efficient models."
+  project_page: "https://evm7.github.io/2CHTR-page/"
+  arxiv: 2302.08274
+  image: twochtr.gif
+  authors:
+    - esteve
+    - shuoma
+    - hyeminahn
+    - dongheuilee
+
+

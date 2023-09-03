@@ -1,0 +1,13 @@
+- company: CARNET
+  description: >-
+    Research Intern on the development of initial proposals for <a href="https://www.eiturbanmobility.eu/projects/ridesafeum-2/">Project RideSafeUM</a>.
+    Also worked on the development of computer vision applications for <a href="https://carnetbarcelona.com/antitrash-smart-trash-detection-and-damage-prevention-for-shared-mobility-vehicles/">Project AntiTrash</a>.
+  dates: "Feb 2020 - May 2021"
+  location: Seattle, WA
+
+- company: CSIC - Mediterranean Institute for Advanced Studies (IMEDEA)
+  description: >-
+    Researcher on the development of deep neural networks to count, detect and segment fishes through computer vision.
+  dates: "Sep 2020 - Jan 2021"
+  location: Mallorca, Spain
+

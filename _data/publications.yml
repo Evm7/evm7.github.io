@@ -1,3 +1,14 @@
+- id: UnsH2R
+  title: "Unsupervised human-to-robot motion retargeting via expressive latent space"
+  venue: Humanoids 2023
+  description: "Learn how real robots can imitate human movements from different modalities in an unsupervised manner"
+  project_page: "https://evm7.github.io/UnsH2R/"
+  image: unsh2r.png
+  authors:
+    - yashuaiyan
+    - esteve
+    - dongheuilee
+    
 - id: hoi4abot
   title: "HOI4ABOT: Human-Object Interaction Anticipation for Assistive roBOTs"
   venue: CoRL 2023

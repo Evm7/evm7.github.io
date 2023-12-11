@@ -3,6 +3,7 @@
   venue: AAAI 2024
   description: "How can we tackle all variations of human motion synthesis using a unique architecture? UNIMASK-M"
   project_page: "https://evm7.github.io/UNIMASKM-page/"
+  arxiv: 2308.07301
   image: unimaskm.gif
   authors:
     - esteve
@@ -14,6 +15,7 @@
   venue: Humanoids 2023
   description: "Learn how real robots can imitate human movements from different modalities in an unsupervised manner"
   project_page: "https://evm7.github.io/UnsH2R/"
+  arxiv: 2309.05310
   image: unsh2r.gif
   authors:
     - yashuaiyan
@@ -25,6 +27,7 @@
   venue: CoRL 2023
   description: "Detect and anticipate human-object interactions for intention reading, which facilitate robots to assist humans."
   project_page: "https://evm7.github.io/HOI4ABOT_page/"
+  arxiv: 2309.16524
   image: hoi4abot.png
   authors:
     - esteve

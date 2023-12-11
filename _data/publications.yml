@@ -1,6 +1,6 @@
 - id: UNIMASK-M
   title: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis"
-  venue: AAAI 2023
+  venue: AAAI 2024
   description: "How can we tackle all variations of human motion synthesis using a unique architecture? UNIMASK-M"
   project_page: "https://evm7.github.io/UNIMASKM-page/"
   image: unimaskm.gif

@@ -1,4 +1,15 @@
-- id: UnsH2R
+- id: UNIMASK-M
+  title: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis"
+  venue: AAAI 2023
+  description: "How can we tackle all variations of human motion synthesis using a unique architecture? UNIMASK-M"
+  project_page: "https://evm7.github.io/UNIMASKM-page/"
+  image: unimaskm.gif
+  authors:
+    - esteve
+    - hyeminahn
+    - dongheuilee
+    
+- id: ImitationNet
   title: "Unsupervised human-to-robot motion retargeting via expressive latent space"
   venue: Humanoids 2023
   description: "Learn how real robots can imitate human movements from different modalities in an unsupervised manner"

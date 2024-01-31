@@ -1,3 +1,14 @@
+- id: ECHO
+  title: "Robot Interaction Behavior Generation based on Social Motion Forecasting for Human-Robot Interaction"
+  venue: ICRA 2024
+  description: "Generating robot motions in social interactions conditioned on semantics, and without annotated robot data!"
+  project_page: "https://evm7.github.io/ECHO/"
+  image: ECHO.gif
+  authors:
+    - esteve
+    - yashuaiyan
+    - dongheuilee
+    
 - id: UNIMASK-M
   title: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis"
   venue: AAAI 2024

@@ -15,7 +15,7 @@
 - id: ECHO
   title: "Robot Interaction Behavior Generation based on Social Motion Forecasting for Human-Robot Interaction"
   venue: ICRA 2024
-  description: "Generating robot motions in social interactions conditioned on semantics, and without annotated robot data!"
+  description: "Generating robot motions in social interactions conditioned on semantics, and without any robot data!"
   project_page: "https://evm7.github.io/ECHO/"
   arxiv: 2402.04768
   image: echo.gif

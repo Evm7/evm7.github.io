@@ -5,7 +5,7 @@
   description: "Control any bipedal humanoid robot by imitating human movements. Any motion, any robot, and in physics-based simulators!"
   project_page: "https://evm7.github.io/I-CTRL/"
   arxiv: 2405.08726
-  image: ictrl.gif
+  image: ictrl.png
   authors:
     - yashuaiyan
     - esteve

@@ -1,3 +1,17 @@
+- id: I-CTRL
+  title: "I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning
+"
+  venue: under submission
+  description: "Control any bipedal humanoid robot by imitating human movements. Any motion, any robot, and in physics-based simulators!"
+  project_page: "https://evm7.github.io/I-CTRL/"
+  arxiv: 2405.08726
+  image: ictrl.gif
+  authors:
+    - yashuaiyan
+    - esteve
+    - tegle
+    - dongheuilee
+    
 - id: ECHO
   title: "Robot Interaction Behavior Generation based on Social Motion Forecasting for Human-Robot Interaction"
   venue: ICRA 2024

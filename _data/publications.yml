@@ -1,6 +1,16 @@
 - id: I-CTRL
-  title: "I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning
-"
+  title: "Know your limits! Optimize the behavior of bipedal robots through self-awareness"
+  venue: Humanoids 2024 and HFR 2024
+  description: "Enhance robot behavior to follow any textual and movement command by recognizing its own limitations and expertise"
+  project_page: "https://evm7.github.io/Self-AWare/"
+  arxiv: 2405.08726
+  image: saw.png
+  authors:
+    - esteve
+    - dongheuilee
+    
+- id: I-CTRL
+  title: "I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning"
   venue: under submission
   description: "Control any bipedal humanoid robot by imitating human movements. Any motion, any robot, and in physics-based simulators!"
   project_page: "https://evm7.github.io/I-CTRL/"

@@ -3,7 +3,7 @@
   venue: Humanoids 2024 and HFR 2024
   description: "Enhance robot behavior to follow any textual and movement command by recognizing its own limitations and expertise"
   project_page: "https://evm7.github.io/Self-AWare/"
-  arxiv: 2405.08726
+  arxiv: 2409.10308
   image: saw.gif
   authors:
     - esteve

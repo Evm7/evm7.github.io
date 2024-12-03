@@ -8,6 +8,8 @@
   authors:
     - esteve
     - dongheuilee
+  awards:
+    - "Oral"
     
 - id: I-CTRL
   title: "I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning"

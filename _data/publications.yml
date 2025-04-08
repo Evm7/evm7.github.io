@@ -1,4 +1,4 @@
-- id: I-CTRL
+- id: SAW
   title: "Know your limits! Optimize the behavior of bipedal robots through self-awareness"
   venue: Humanoids 2024 and HFR 2024
   description: "Enhance robot behavior to follow any textual and movement command by recognizing its own limitations and expertise"
@@ -13,7 +13,7 @@
     
 - id: I-CTRL
   title: "I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning"
-  venue: under submission
+  venue: RAM
   description: "Control any bipedal humanoid robot by imitating human movements. Any motion, any robot, and in physics-based simulators!"
   project_page: "https://evm7.github.io/I-CTRL/"
   arxiv: 2405.08726
@@ -23,6 +23,8 @@
     - esteve
     - tegle
     - dongheuilee
+  awards:
+    - "Journal Paper"
     
 - id: ECHO
   title: "Robot Interaction Behavior Generation based on Social Motion Forecasting for Human-Robot Interaction"
